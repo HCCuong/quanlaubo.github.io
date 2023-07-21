@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'iCielBC Rostrum';
+    src: url('iCielBCRostrum-Regular.eot');
+    src: url('iCielBCRostrum-Regular.eot?#iefix') format('embedded-opentype'),
+        url('iCielBCRostrum-Regular.woff2') format('woff2'),
+        url('iCielBCRostrum-Regular.woff') format('woff'),
+        url('iCielBCRostrum-Regular.ttf') format('truetype'),
+        url('iCielBCRostrum-Regular.svg#iCielBCRostrum-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'iCielBC Cubano Normal';
+    src: url('iCielBCCubano-Normal.eot');
+    src: url('iCielBCCubano-Normal.eot?#iefix') format('embedded-opentype'),
+        url('iCielBCCubano-Normal.woff2') format('woff2'),
+        url('iCielBCCubano-Normal.woff') format('woff'),
+        url('iCielBCCubano-Normal.ttf') format('truetype'),
+        url('iCielBCCubano-Normal.svg#iCielBCCubano-Normal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'iCiel Alina';
+    src: url('iCielAlina-regular.eot');
+    src: url('iCielAlina-regular.eot?#iefix') format('embedded-opentype'),
+        url('iCielAlina-regular.woff2') format('woff2'),
+        url('iCielAlina-regular.woff') format('woff'),
+        url('iCielAlina-regular.ttf') format('truetype'),
+        url('iCielAlina-regular.svg#iCielAlina-regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Mulish';
+    src: url('Mulish-Regular.eot');
+    src: url('Mulish-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Mulish-Regular.woff2') format('woff2'),
+        url('Mulish-Regular.woff') format('woff'),
+        url('Mulish-Regular.ttf') format('truetype'),
+        url('Mulish-Regular.svg#Mulish-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UTM Yen Tu';
+    src: url('UTMYenTu.eot');
+    src: url('UTMYenTu.eot?#iefix') format('embedded-opentype'),
+        url('UTMYenTu.woff2') format('woff2'),
+        url('UTMYenTu.woff') format('woff'),
+        url('UTMYenTu.ttf') format('truetype'),
+        url('UTMYenTu.svg#UTMYenTu') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

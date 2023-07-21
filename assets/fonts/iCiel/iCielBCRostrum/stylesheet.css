@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'iCielBC Rostrum';
+    src: url('iCielBCRostrum-Regular.eot');
+    src: url('iCielBCRostrum-Regular.eot?#iefix') format('embedded-opentype'),
+        url('iCielBCRostrum-Regular.woff2') format('woff2'),
+        url('iCielBCRostrum-Regular.woff') format('woff'),
+        url('iCielBCRostrum-Regular.ttf') format('truetype'),
+        url('iCielBCRostrum-Regular.svg#iCielBCRostrum-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
